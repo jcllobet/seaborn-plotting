@@ -1,0 +1,20 @@
+{
+    "person1" : {
+        "one-finger": [5.23, 8.76, 10.77, 11.78],
+        "two-fingers": [0.55, 7.75, 9.76, 12.79],
+        "three-fingers": [6.75],
+        "ok": []
+    },
+    "person2" : {
+        "one-finger": [5.23, 8.76],
+        "two-fingers": [2.5, 7.75, 9.76, 12.79],
+        "three-fingers": [6.75, 8.00],
+        "ok": [4.65]
+    },
+    "person3" : {
+        "one-finger": [5.23, 8.76, 12.45],
+        "two-fingers": [2.5, 7.75],
+        "three-fingers": [6.75, 8.00],
+        "ok": [4.65, 7.40, 11.30]
+    }
+}
